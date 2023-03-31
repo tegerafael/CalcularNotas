@@ -1,0 +1,14 @@
+C:\Users\2019102049035-5\source\repos\CalcularNotas\CalcularNotas\bin\Debug\CalcularNotas.exe.config
+C:\Users\2019102049035-5\source\repos\CalcularNotas\CalcularNotas\bin\Debug\CalcularNotas.exe
+C:\Users\2019102049035-5\source\repos\CalcularNotas\CalcularNotas\bin\Debug\CalcularNotas.pdb
+C:\Users\2019102049035-5\source\repos\CalcularNotas\CalcularNotas\obj\Debug\CalcularNotas.csproj.AssemblyReference.cache
+C:\Users\2019102049035-5\source\repos\CalcularNotas\CalcularNotas\obj\Debug\CalcularNotas.csproj.SuggestedBindingRedirects.cache
+C:\Users\2019102049035-5\source\repos\CalcularNotas\CalcularNotas\obj\Debug\CalcularNotas.Form1.resources
+C:\Users\2019102049035-5\source\repos\CalcularNotas\CalcularNotas\obj\Debug\CalcularNotas.Formularios.FormSimularMedia.resources
+C:\Users\2019102049035-5\source\repos\CalcularNotas\CalcularNotas\obj\Debug\CalcularNotas.Properties.Resources.resources
+C:\Users\2019102049035-5\source\repos\CalcularNotas\CalcularNotas\obj\Debug\CalcularNotas.csproj.GenerateResource.cache
+C:\Users\2019102049035-5\source\repos\CalcularNotas\CalcularNotas\obj\Debug\CalcularNotas.csproj.CoreCompileInputs.cache
+C:\Users\2019102049035-5\source\repos\CalcularNotas\CalcularNotas\obj\Debug\CalcularNotas.exe
+C:\Users\2019102049035-5\source\repos\CalcularNotas\CalcularNotas\obj\Debug\CalcularNotas.pdb
+C:\Users\2019102049035-5\source\repos\CalcularNotas\CalcularNotas\obj\Debug\CalcularNotas.Formularios.FormNotaExame.resources
+C:\Users\2019102049035-5\source\repos\CalcularNotas\CalcularNotas\obj\Debug\CalcularNotas.Formularios.FormMediaFinal.resources
